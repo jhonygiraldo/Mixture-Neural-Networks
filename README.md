@@ -7,6 +7,13 @@ By Jhony Heriberto Giraldo Zuluaga, Augusto Salazar, Alexander Gomez, Angélica 
 
 If you find Multi-Layer RPCA useful in your research, please consider citing:
 
-## Database
-
-## Requirements: software
+```
+@inproceedings{giraldo2017recognition,
+  title={Recognition of Mammal Genera on Camera-Trap Images using Multi-Layer Robust Principal Component Analysis and Mixture Neural Networks},
+  author={Giraldo-Zuluaga, Jhony-Heriberto and Salazar, Augusto and Gomez, Alexander and Diaz-Pulido, Ang{\'e}lica},
+  booktitle={Tools with Artificial Intelligence (ICTAI), 2017 IEEE 29th International Conference on},
+  pages={53--60},
+  year={2017},
+  organization={IEEE}
+}
+```
