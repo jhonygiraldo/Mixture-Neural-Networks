@@ -5,7 +5,7 @@ By Jhony Heriberto Giraldo Zuluaga, Augusto Salazar, Alexander Gomez, Angélica 
 
 ## Citing Mixture Neural Networks
 
-If you find Multi-Layer RPCA useful in your research, please consider citing:
+If you find Mixture-Neural-Networks useful in your research, please consider citing:
 
 ```
 @inproceedings{giraldo2017recognition,
